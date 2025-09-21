@@ -5,7 +5,7 @@ const asyncHandler = (requestHandler) =>{
     }
 }
 
-export {asyncHandler}
+export {asyncHandler} 
 
 // const asyncHandler = () => {}
 // const asyncHandler = (func) => { () => {} } or (func) => () => {} both are same thing just a higher order function
